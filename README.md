@@ -1,5 +1,5 @@
 
-# 🍅 Proyek Deep Learning: Klasifikasi Daun Tomat
+#  Proyek Deep Learning: Klasifikasi Daun Tomat
 
 Proyek ini dikembangkan untuk membuat model deep learning yang mampu mengidentifikasi kondisi kesehatan daun tomat melalui citra gambar.  
 Tujuan utama proyek ini adalah untuk membantu deteksi dini penyakit tanaman menggunakan teknologi klasifikasi berbasis AI.
