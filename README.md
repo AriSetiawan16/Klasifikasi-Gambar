@@ -6,24 +6,6 @@ Tujuan utama proyek ini adalah untuk membantu deteksi dini penyakit tanaman meng
 
 ---
 
-## ✨ Highlight Proyek
-
-✅ Diselesaikan dalam program **Coding Camp 2025 - Deep Learning**  
-🏆 Berhasil meraih **rating 5 bintang** dalam evaluasi akhir  
-📈 Menampilkan visualisasi training seperti **akurasi dan loss** secara komprehensif  
-
-<div align="center">
-  
-  <img src="images/Akurasi.png" alt="Training Accuracy Chart" width="500"/>
-  <p><em>Grafik Performa Selama Training</em></p>
-
-  <img src="images/Bintang5.png" alt="5 Stars Achievement" width="300"/>
-  <p><em>Pencapaian Rating Bintang 5</em></p>
-
-</div>
-
----
-
 ## 📊 Performa Model
 
 | Evaluasi                     | Skor       |
